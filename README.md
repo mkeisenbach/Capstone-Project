@@ -1,2 +1,6 @@
-# Analysis of Specialty Drugs
-This analysis was done as the capstone project for a M.S. in Business Analytics.
+# Clustering Analysis of Specialty Drugs
+This is a supplemental analysis for my M.S. in Business Analytics capstone project.
+
+Files:
+- Analysis.Rmd: R Notebook
+- Analysis.html: R Notebook viewed as html
