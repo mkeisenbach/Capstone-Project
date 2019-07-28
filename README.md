@@ -1,7 +1,7 @@
 # Analysis of Specialty Drugs
-This is a supplemental analysis for my M.S. in Business Analytics capstone project.
+Capstone project for a M.S. in Business Analytics.
 
 Files:
 - Capstone Report-Redacted: PDF of report, redacted to remove proprietary information
-- Analysis.Rmd: R Notebook
+- Analysis.Rmd: R Notebook of a supplemental cluster analysis
 - Analysis.html: R Notebook viewed as html
